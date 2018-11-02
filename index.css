@@ -1,0 +1,46 @@
+ body {
+    width: 740px;
+    height:760px;
+    background: #F4F4F4;
+    color: #555;
+    font-size: 14px;
+}
+article {
+    margin: 0 auto;
+    padding: 20px;
+    width: 760px;
+    background: #FFF;
+}
+header{
+    line-height: 50px;
+    font-size: 14px;
+}
+header h1{
+    line-height: 50px;
+    text-align: center;
+    font-size: 20px;
+}
+header img{
+    float:left;
+    width:100px;
+    position: absolute;
+    top:200px;
+    left:650px;
+}
+header h2 {
+    border-bottom: 1px dashed blue ;
+    line-height: 50px;
+    text-align: left;
+    font-size: 18px;
+}
+header h2 img{
+    float: left;
+}
+header h3 {
+    line-height: 35px;
+    font-size: 16px;
+}
+header p {
+    margin-bottom: 10px;
+    line-height: 35px;
+}
